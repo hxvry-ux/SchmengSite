@@ -1,0 +1,53 @@
+@import url(
+    'https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
+@import url(
+    'https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+
+/*Color Palette*/
+.primaryColor{background-color:#212121;}
+.primaryLightColor{background-color:#484848;}
+.primaryDarkColor{background-color:#000000;}
+.secondaryColor{background-color:#ffd54f;}
+.secondaryLightColor{background-color:#ffff81;}
+.secondaryDarkColor{background-color:#c8a415;}
+.primaryTextColor{color:#ffffff;}
+.secondaryTextColor{color:#000000;}
+
+#column{width:50%;}
+#emphasis{font-weight: bold; color:#ffd54f;}
+#font-source{font-family: 'Source Code Pro', monospace;}
+#font-rubik{font-family: 'Rubik Mono One', sans-serif;}
+html{background-color:#484848; height:100%;}
+*{box-sizing:border-box;}
+a:visited{color:white;}
+.divider{
+    border-right:solid;
+    border-color:#ffd54f;
+    border-width:1px;
+}
+.header-container{
+    background-color:#212121;
+    overflow:hidden;
+}
+.header-container a{
+    float:left;
+    color:white;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration: none;
+}
+.header-container a:hover{
+    background-color: #484848;
+    transition:ease, 0.5s;
+}
+.header-container a:active{
+    background-color: #ffd54f;
+    color:black;
+}
+.header-back-button{
+    float:right;
+    background-color:#ffd54f;
+    color:black;
+    box-shadow: 2px 2px black;
+}
