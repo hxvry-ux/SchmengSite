@@ -1,12 +1,12 @@
-# SchmengSite
-## The Core...
+# The Core...
+<br>
 
 ## Table of Contents
 <br>
 
-[TODO](#todo)
-[Color Palette](#colors)
-[Contributors](#contributors)
+- [TODO](#todo)
+- [Color Palette](#colors)
+- [Contributors](#contributors)
 
 ### Badges
 <br>
