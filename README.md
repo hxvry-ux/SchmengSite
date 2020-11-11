@@ -45,7 +45,7 @@
 ![#c8a415](https://via.placeholder.com/15/c8a415/000000?text=+) `#c8a415`<br />
 ![#ffd54f](https://via.placeholder.com/15/ffd54f/000000?text=+) `#ffd54f`<br />
 ![#ffff81](https://via.placeholder.com/15/ffff81/000000?text=+) `#ffff81`<br />
-![#ffffff](https://via.placeholder.com/15/757575/000000?text=+) `#ffffff`<br />
+![#ffffff](https://via.placeholder.com/15/757575/000000?text=+) `white`<br />
 
 ## Contributors <a name="contributors"></a>
 
